@@ -11,7 +11,7 @@
 <li><strong>Roulette:</strong> A classic casino game where you can test your luck.</li>
 <li><strong>Tic-Tac-Toe:</strong> A two-player strategy game.</li>
 <li><strong>Rock-Paper-Scissors:</strong> A simple and fun hand game.</li>
-<li><strong>Pokemon:</strong> A memory game featuring adorable Pokemon characters.</li>
+<li><strong>Pokemon:</strong> A following game featuring adorable Pokemon characters.</li>
 <li><strong>Archery Game:</strong> A skill game to test your accuracy in hitting targets.</li>
 </ol>
 
